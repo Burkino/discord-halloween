@@ -1,2 +1,2 @@
 # discord-halloween
-images for discords halloween &amp; something similar to a selfbot to get them yourself
+thing similar to a selfbot will probably get you banned if the bot has too many messages but i dont care, make an alt account
